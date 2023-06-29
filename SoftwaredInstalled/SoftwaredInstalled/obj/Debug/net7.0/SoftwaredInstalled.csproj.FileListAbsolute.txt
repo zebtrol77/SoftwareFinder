@@ -1,0 +1,15 @@
+C:\Users\felix.kupper\source\repos\SoftwaredInstalled\SoftwaredInstalled\obj\Debug\net7.0\SoftwaredInstalled.csproj.AssemblyReference.cache
+C:\Users\felix.kupper\source\repos\SoftwaredInstalled\SoftwaredInstalled\obj\Debug\net7.0\SoftwaredInstalled.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felix.kupper\source\repos\SoftwaredInstalled\SoftwaredInstalled\obj\Debug\net7.0\SoftwaredInstalled.AssemblyInfoInputs.cache
+C:\Users\felix.kupper\source\repos\SoftwaredInstalled\SoftwaredInstalled\obj\Debug\net7.0\SoftwaredInstalled.AssemblyInfo.cs
+C:\Users\felix.kupper\source\repos\SoftwaredInstalled\SoftwaredInstalled\obj\Debug\net7.0\SoftwaredInstalled.csproj.CoreCompileInputs.cache
+C:\Users\felix.kupper\source\repos\SoftwaredInstalled\SoftwaredInstalled\bin\Debug\net7.0\SoftwaredInstalled.exe
+C:\Users\felix.kupper\source\repos\SoftwaredInstalled\SoftwaredInstalled\bin\Debug\net7.0\SoftwaredInstalled.deps.json
+C:\Users\felix.kupper\source\repos\SoftwaredInstalled\SoftwaredInstalled\bin\Debug\net7.0\SoftwaredInstalled.runtimeconfig.json
+C:\Users\felix.kupper\source\repos\SoftwaredInstalled\SoftwaredInstalled\bin\Debug\net7.0\SoftwaredInstalled.dll
+C:\Users\felix.kupper\source\repos\SoftwaredInstalled\SoftwaredInstalled\bin\Debug\net7.0\SoftwaredInstalled.pdb
+C:\Users\felix.kupper\source\repos\SoftwaredInstalled\SoftwaredInstalled\obj\Debug\net7.0\SoftwaredInstalled.dll
+C:\Users\felix.kupper\source\repos\SoftwaredInstalled\SoftwaredInstalled\obj\Debug\net7.0\refint\SoftwaredInstalled.dll
+C:\Users\felix.kupper\source\repos\SoftwaredInstalled\SoftwaredInstalled\obj\Debug\net7.0\SoftwaredInstalled.pdb
+C:\Users\felix.kupper\source\repos\SoftwaredInstalled\SoftwaredInstalled\obj\Debug\net7.0\SoftwaredInstalled.genruntimeconfig.cache
+C:\Users\felix.kupper\source\repos\SoftwaredInstalled\SoftwaredInstalled\obj\Debug\net7.0\ref\SoftwaredInstalled.dll
